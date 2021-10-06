@@ -1,0 +1,22 @@
+{
+  "name": "web_scrapper_njs",
+  "version": "1.0.0",
+  "description": "Web Scrapper made with node.js",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web_scrapper_njs"
+  },
+  "author": "Dimas Salazar",
+  "license": "ISC"
+}
